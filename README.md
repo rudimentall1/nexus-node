@@ -1,18 +1,7 @@
-# Nexus Node
+# nexus-node
 
-[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/rudimentall1/nexus-node)
+Demo node для проекта **nexus**.
 
-## Описание
-Nexus Node — демонстрационный репозиторий ноды (для GitHub-статуса).
+## GitHub Actions CI
 
-## Статус
-✅ Demo / Test / Showcase
-
-## Скриншот
-![Demo](https://via.placeholder.com/600x150.png?text=Nexus+Node+Demo)
-
-## Быстрый старт
-```bash
-docker-compose up -d
-./scripts/deploy.sh
-```
+![CI](https://github.com/rudimentall1/nexus-node/actions/workflows/ci.yml/badge.svg)
