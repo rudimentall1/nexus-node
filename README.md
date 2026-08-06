@@ -1,7 +1,17 @@
-# nexus-node
+# Nexus Node
 
-Demo node для проекта **nexus**.
+Node deployment workspace for the Nexus network.
 
-## GitHub Actions CI
+## Purpose
 
-![CI](https://github.com/rudimentall1/nexus-node/actions/workflows/ci.yml/badge.svg)
+Contains the project-specific configuration and automation used for node operation and maintenance.
+
+## CI
+
+GitHub Actions provides automated repository checks.
+
+## Status
+
+Infrastructure / node-operations workspace.
+
+For deployment details, use the configuration and workflow files included in this repository.
